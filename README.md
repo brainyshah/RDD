@@ -1,14 +1,14 @@
 <!-- PROFILE README.md -->
-
+<i class="fa-solid fa-heart-slash fa-spin"></i>
 <h1 align="center">Hi 👋, I'm Amin Shah</h1>
 <h3 align="center">A passionate developer and B.Tech student</h3>
-
+<i class="fa-solid fa-heart-slash fa-spin"></i>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1F8AC0&width=435&lines=Python+%7C+Web+Developer;Love+Open+Source+%26+Automation;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
-
+<i class="fa-solid fa-heart-slash fa-spin"></i>
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on: `Image Processing and Automation`
